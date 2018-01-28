@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+We're a team of 6 students from OCAD and UofT.
 
-### More Information
+### Contact us
 
-A place to include any other types of information that you'd like to include about yourself.
-
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+[d.ly@mail.utoronto.ca](mailto:d.ly@mail.utoronto.ca)
