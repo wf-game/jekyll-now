@@ -1,5 +1,3 @@
-# Creative brief feedback
-
 ## General feedback
 * What makes the game interesting? Is the the art, the story, the challenge?
   * What makes people keep playing the game?
