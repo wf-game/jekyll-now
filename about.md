@@ -6,6 +6,10 @@ permalink: /about/
 
 We're a team of 6 students from OCAD and UofT.
 
+### License
+
+<div>Icons made by <a href="https://www.flaticon.com/authors/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a> is licensed by <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0" target="_blank">CC 3.0 BY</a></div>
+
 ### Contact us
 
-[d.ly@mail.utoronto.ca](mailto:d.ly@mail.utoronto.ca)
+[phantomenlister8000@gmail.com](mailto:phantomenlister8000@gmail.com)
