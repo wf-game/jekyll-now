@@ -58,5 +58,6 @@
     * Also avoid 'red barrels' because they're overdone
 
 ## Warp Fighters
-* Valves portal videos describing design process
+* Watch Valve's portal videos describing design process
 * Make a first level with a reductional approach to the core mechanics
+* Check out the GDC vault too
