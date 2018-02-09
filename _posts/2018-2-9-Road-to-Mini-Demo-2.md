@@ -1,5 +1,3 @@
-## Road to Mini-Demo 2
-
 # Art
 Main character concept art.
 
