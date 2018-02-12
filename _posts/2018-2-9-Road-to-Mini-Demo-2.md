@@ -13,5 +13,7 @@ We have revamped the warping mechanic to produce a "warp guide" that indicates w
 The player will have the ability to change the distance/direction of their warp.
 We plan to allow for players to warp vertically as well.
 
+![alt text](https://raw.githubusercontent.com/wf-game/wf-game.github.io/master/gifs/Recording-9.gif)
+
 # Sounds
 We're looking to produce a main dungeon OST.
