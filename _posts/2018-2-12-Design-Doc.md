@@ -1,3 +1,3 @@
 ## Design Doc
 
-[a link](wf-game.github.io/files/Warp Fighters Design Doc.pdf)
+<embed src="wf-game.github.io/files/Warp Fighters Design Doc.pdf" type="application/pdf" />
