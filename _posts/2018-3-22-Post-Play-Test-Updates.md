@@ -1,4 +1,3 @@
-## Post Play Test Updates
 
 We just finished writing our play testing report and will submit after revisions. Now after the feed back from play testing sessions we have 
 tried to implement the changes in order to improve our game.
